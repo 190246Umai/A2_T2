@@ -1,0 +1,11 @@
+C:\Users\Rosina Umai\source\repos\Trail\Trail\bin\Debug\Trail.exe.config
+C:\Users\Rosina Umai\source\repos\Trail\Trail\bin\Debug\Trail.exe
+C:\Users\Rosina Umai\source\repos\Trail\Trail\bin\Debug\Trail.pdb
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Trail.Receipt.resources
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Trail.Properties.Resources.resources
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Heavy Machinery Hiring App.csproj.GenerateResource.cache
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Heavy Machinery Hiring App.csproj.CoreCompileInputs.cache
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Trail.exe
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Trail.pdb
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Heavy Machinery Hiring App.csprojAssemblyReference.cache
+C:\Users\Rosina Umai\source\repos\Trail\Trail\obj\Debug\Trail.Calculator.resources
